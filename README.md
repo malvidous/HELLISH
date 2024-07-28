@@ -6,9 +6,10 @@
 2. Download [check-id_hellish.bin](https://github.com/malvidous/HELLISH/releases/download/v1.8.1/check-id_hellish.bin) 📁📁
 3. Flash it to your board and Send me the ID 🃏🃏
 4. Done the Payment. 💸💸
-5. Wait for me to update the database and Releases 🐬🐬
-6. Download the lastest [Releases](https://github.com/malvidous/HELLISH/releases) 📁📁
+5. Wait for me to update the database and Releases 🐬🐬 ≈ 2mins
+6. Download the latest [Releases](https://github.com/malvidous/HELLISH/releases) 📁📁
 7. Flash it! ⚡️⚡️
+8. pwned!
 
 ***
 
