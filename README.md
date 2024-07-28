@@ -1,4 +1,4 @@
-# HELLISH
+# HELLISH Deauther ESP8266-(WEMOS d1 Mini)
 
 
 ### How to get Registered Board
