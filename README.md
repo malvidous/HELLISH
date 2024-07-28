@@ -1,5 +1,16 @@
 # HELLISH
 
+
+### How to Buy .bin files
+1. Chat me on [Whatsapp](https://wa.me/6287818131314)
+2. Done the Payment.
+3. Download [Check_id-Board.Hellish.bin](https://github.com/malvidous/HELLISH/releases/download/hellish/Check_id-Board_Hellish.bin)
+4. Flash it to your board and Send me the ID
+5. Wait me to update the database and Releases
+6. Download the lastest [Releases](https://github.com/malvidous/HELLISH/releases/tag/hellish)
+7. Flash it!
+
+***
 **Download** [HERE](https://github.com/malvidous/HELLISH/releases/tag/hellish)
 
 **Check out the project website** [HERE](https://hellish.vercel.app/)
