@@ -2,7 +2,9 @@
 
 **Download** [HERE](https://github.com/malvidous/HELLISH/releases/tag/hellish)
 
-**Check out the project website** [HERE](https://hellish.vercel.app/).
+**Check out the project website** [HERE](https://hellish.vercel.app/)
+
+***
 
 ### Flashing via Smartphone
 1. **Install Flashing App:**
@@ -44,9 +46,11 @@
 	
 	
 	
-	
+	***
 	Credit to :
 	
 	[https://github.com/M1z23R/ESP8266-EvilTwin](https://github.com/M1z23R/ESP8266-EvilTwin)
+
 	[https://github.com/SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther
 	)
+	***
