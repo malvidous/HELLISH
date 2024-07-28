@@ -3,7 +3,7 @@
 
 ### How to get Registered Board
 1. Chat me on [Whatsapp](https://wa.me/6287818131314) 💬💬
-2. Download [Check_id-Board.Hellish.bin](https://github.com/malvidous/HELLISH/releases/download/hellish/Check_id-Board_Hellish.bin) 📁📁
+2. Download [check-id_hellish.bin](https://github.com/malvidous/HELLISH/releases/download/v1.8.1/check-id_hellish.bin) 📁📁
 3. Flash it to your board and Send me the ID 🃏🃏
 4. Done the Payment. 💸💸
 5. Wait for me to update the database and Releases 🐬🐬
@@ -15,7 +15,7 @@
 ## How to Check the ID of Your Board
 
 1. **Download and Flash the Firmware**:
-   - Download the firmware file: [Check_id-Board.Hellish.bin](https://github.com/malvidous/HELLISH/releases/download/hellish/Check_id-Board_Hellish.bin).
+   - Download the firmware file: [check-id_hellish.bin](https://github.com/malvidous/HELLISH/releases/download/v1.8.1/check-id_hellish.bin).
    - Flash this firmware onto your board.
 
 2. **Connect the Board to Power**:
