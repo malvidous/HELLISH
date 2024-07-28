@@ -7,7 +7,7 @@
 3. Flash it to your board and Send me the ID 🃏🃏
 4. Done the Payment. 💸💸
 5. Wait for me to update the database and Releases 🐬🐬
-6. Download the lastest [Releases](https://github.com/malvidous/HELLISH/releases/tag/hellish) 📁📁
+6. Download the lastest [Releases](https://github.com/malvidous/HELLISH/releases) 📁📁
 7. Flash it! ⚡️⚡️
 
 ***
