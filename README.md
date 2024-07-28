@@ -12,6 +12,28 @@
 
 ***
 
+## How to Check the ID of Your Board
+
+1. **Download and Flash the Firmware**:
+   - Download the firmware file: [Check_id-Board.Hellish.bin](https://github.com/malvidous/HELLISH/releases/download/hellish/Check_id-Board_Hellish.bin).
+   - Flash this firmware onto your board.
+
+2. **Connect the Board to Power**:
+   - Power up your board.
+   - It should create a new Access Point (AP) with the name `ESP8266-xxxxx` where `xxxxx` is the ID board.
+   
+      ![ID_BOARD](https://raw.githubusercontent.com/malvidous/HELLISH/main/id_check.jpeg)
+      
+3. **Capture a Screenshot**:
+   - Once the AP is visible, take a screenshot.
+
+4. **Send the Screenshot**:
+   - Send the screenshot to me.
+
+5. **I'll do the rest.**
+
+***
+
 ### Flashing via Smartphone
 1. **Install Flashing App:**
 	- For ESP8266/ESP32: Install the [ESP8266/ESP32 Flasher](https://play.google.com/store/apps/details?id=com.espressif.esp32_ota) app from the Google Play Store.
