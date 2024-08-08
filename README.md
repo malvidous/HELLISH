@@ -1,5 +1,18 @@
 # HELLISH Deauther ESP8266-(WEMOS d1 Mini)
 
+## Features
+1. **Deauthing**: Send deauthentication packets to disconnect network and client.
+2. **Evil Twin**: Create a fake access point to mimic another network, Useful for capturing credentials or redirecting traffic.
+3. **Deauth All**: Send deauthentication packets to all network and clients in coverage area.
+4. **Aggressive Deauth**: More aggressive deauthentication attacks, ensures clients are disconnected and stay disconnected for longer periods.
+5. **Beacon Flooding**: Send multiple beacon frames to create fake networks, confuses users by displaying many fake networks in their WiFi list.
+6. **Network Extender**: Extends the range of an existing network by creating a secondary access point for improving WiFi coverage.
+7. **OTA Updates**: Over-the-Air firmware updates.
+8. **File Management**: Upload, view, and delete files from SPIFFS.
+9. **Password Logging**: Log and manage passwords, stores and displays passwords entered by clients.
+10. **LED Control**: Control the onboard LED.
+11. **Web Server**: Serve web pages to control and configure the device, provides a user interface for managing device settings and initiating attacks.
+12. **DNS Server**: Redirects clients to a specific web page, useful for captive portals or phishing pages.
 
 ### How to get Registered Board
 1. Chat me on [Whatsapp](https://wa.me/6287818131314) 💬💬
@@ -14,7 +27,6 @@
 ***
 
 ## How to Check the ID of Your Board
-
 1. **Download and Flash the Firmware**:
    - Download the firmware file: [check-id_hellish.bin](https://github.com/malvidous/HELLISH/releases/download/v1.8.1/check-id_hellish.bin).
    - Flash this firmware onto your board.
@@ -33,7 +45,6 @@
 
 5. **I'll do the rest.**
 
-***
 
 ### Flashing via Smartphone
 1. **Install Flashing App:**
