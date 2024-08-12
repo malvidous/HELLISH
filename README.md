@@ -17,12 +17,13 @@
 ### How to get Registered Board
 1. Chat me on [Whatsapp](https://wa.me/6287818131314) 💬💬
 2. Download [check-id_hellish.bin](https://github.com/malvidous/HELLISH/releases/download/v1.8.1/check-id_hellish.bin) 📁📁
-3. Flash it to your board and Send me the ID 🃏🃏
-4. Done the Payment. 💸💸
-5. Wait for me to update the database and Releases 🐬🐬 ≈ 2mins
-6. Download the latest [Releases](https://github.com/malvidous/HELLISH/releases) 📁📁
-7. Flash it! ⚡️⚡️
-8. pwned!
+3. or alternate easy way is send me your device(s) MAC Address
+4. Flash it to your board and Send me the ID 🃏🃏
+5. Done the Payment. 💸💸
+6. Wait for me to update the database and Releases 🐬🐬 ≈ 2mins
+7. Download the latest [Releases](https://github.com/malvidous/HELLISH/releases) 📁📁
+8. Flash it! ⚡️⚡️
+9. pwned!
 
 ***
 
