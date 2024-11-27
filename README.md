@@ -14,17 +14,6 @@
 11. **Web Server**: Serve web pages to control and configure the device, provides a user interface for managing device settings and initiating attacks.
 12. **DNS Server**: Redirects clients to a specific web page, useful for captive portals or phishing pages.
 
-### How to get Registered Board
-1. Chat me on [Whatsapp](https://wa.me/6287818131314) 💬💬
-2. Download [check-id_hellish.bin](https://github.com/malvidous/HELLISH/releases/download/v1.8.1/check-id_hellish.bin) 📁📁
-3. or alternate easy way is send me your device(s) MAC Address
-4. Flash it to your board and Send me the ID 🃏🃏
-5. Done the Payment. 💸💸
-6. Wait for me to update the database and Releases 🐬🐬 ≈ 2mins
-7. Download the latest [Releases](https://github.com/malvidous/HELLISH/releases) 📁📁
-8. Flash it! ⚡️⚡️
-9. pwned!
-
 ***
 
 ## How to Check the ID of Your Board
